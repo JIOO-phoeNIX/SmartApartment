@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataUpload", "DataUpload\DataUpload.csproj", "{63E51068-E959-4978-9832-59D238D9E369}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PropertyManagement", "PropertyManagement\PropertyManagement.csproj", "{06F0B45D-E851-40FF-8F43-6B4F4731E7FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63E51068-E959-4978-9832-59D238D9E369}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63E51068-E959-4978-9832-59D238D9E369}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63E51068-E959-4978-9832-59D238D9E369}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63E51068-E959-4978-9832-59D238D9E369}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06F0B45D-E851-40FF-8F43-6B4F4731E7FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06F0B45D-E851-40FF-8F43-6B4F4731E7FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06F0B45D-E851-40FF-8F43-6B4F4731E7FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06F0B45D-E851-40FF-8F43-6B4F4731E7FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6CDCB0FB-C4A3-4E2E-B784-6B7A87817EA8}
+	EndGlobalSection
+EndGlobal
