@@ -52,7 +52,7 @@ namespace PropertyManagement.Implementations
                     request.Page = 1;
 
                 int skip = (request.Page - 1) * request.Limit;
-                var tt = response.Documents.ToList();
+               
                 propertyReponse = response.Documents
                     .OrderByDescending(x => x.propertyID)
                     .Skip(skip)
